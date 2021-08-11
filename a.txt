@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 noi dung b
 sua doi boi master 
+=======
+noi dung a
+
+      
+ sua boi beta
+>>>>>>> beta
